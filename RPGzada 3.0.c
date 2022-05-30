@@ -66,7 +66,7 @@ int main()
 			
 			case 2 :
 				system("cls");
-				printf("Na Noruega por volta do seculo VIII num povo conhecido popularmente\ncomo vikings, existe um jovem campones de 16 anos que tem como seu\nsonho se tonar o rei da Noruega, todas as noites ele pede para odin o pai de\ntodos para que um dia seu sonho se torne realidade. Certo dia o garoto\nestava cuidando das ovelhas de sua familia quando sua vila atacada, seu pai\ngrita 'corre corre!!!!' o jovem corre e se esconde, porem de onde ele esta \nconsegue ver seus pais sendo mortos e sua vila destruida, antes de correr ele \nreconhece quem sao as pessoas que estao atacando, para a sua surpresa era\na sua inspiracao, o rei da islandia Ragnar, entao ele jura vinganca e nao iria \ndescansar ate matar o rei e todos os seus subordinados.\n");
+				printf("Na Noruega por volta do seculo VII num povo conhecido popularmente\ncomo vikings, existe um jovem campones de 16 anos que tem como seu\nsonho se tonar o rei da Noruega, todas as noites ele pede para odin o pai de\ntodos para que um dia seu sonho se torne realidade. Certo dia o garoto\nestava cuidando das ovelhas de sua familia quando sua vila atacada, seu pai\ngrita 'corre corre!!!!' o jovem corre e se esconde, porem de onde ele esta \nconsegue ver seus pais sendo mortos e sua vila destruida, antes de correr ele \nreconhece quem sao as pessoas que estao atacando, para a sua surpresa era\na sua inspiracao, o rei da islandia Ragnar, entao ele jura vinganca e nao iria \ndescansar ate matar o rei e todos os seus subordinados.\n");
 				printf("\npressione enter para continuar");
 				getchar();
 			break;

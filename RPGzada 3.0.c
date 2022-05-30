@@ -447,7 +447,7 @@ void criacao(PERSONAGENS personagens)
 				printf("Dano:      %d\n", personagens.gun);
 				printf("Defesa:    %d\n", personagens.prot);
 				printf("Agilidade: %d\n\n", personagens.Agilidade);
-				printf("O que voce fara a seguir?:\n\n");
+				printf("O que voce fara a seguir? :\n\n");
 				printf("|1 - Atacar    |\n");
 				printf("|2 - Defender  |\n");
 				printf("|3 - Usar Pocao|\n");
